@@ -23,3 +23,5 @@ print('10 класс:')
 print('1 место:', students[0].fio)
 print('2 место:', students[1].fio)
 print('3 место:', students[2].fio)
+#1
+#2
